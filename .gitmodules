@@ -1,0 +1,9 @@
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/devdevmac/terraform.git
+[submodule "galaxy"]
+	path = galaxy
+	url = https://github.com/devdevmac/galaxy.git
+[submodule "boot2docker"]
+	path = boot2docker
+	url = https://github.com/devdevmac/boot2docker.git
