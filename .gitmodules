@@ -7,3 +7,6 @@
 [submodule "boot2docker"]
 	path = boot2docker
 	url = https://github.com/devdevmac/boot2docker.git
+[submodule "Git-Auto-Deploy"]
+	path = Git-Auto-Deploy
+	url = https://github.com/devdevmac/Git-Auto-Deploy.git
